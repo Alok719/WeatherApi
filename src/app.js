@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-// const hbs = require("hbs");
+const hbs = require("hbs");
 
 const port = process.env.PORT || 3000;
 
